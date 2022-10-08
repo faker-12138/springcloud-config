@@ -9,7 +9,7 @@ spring:
   profiles: client
 ---
 server:
-  port: 8201
+  port: 8200
 #spring的配置
 spring:
   profiles: dev
