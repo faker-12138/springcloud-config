@@ -4,9 +4,10 @@ spring:
     
 ---
 config:
-  info: ztt
+  info: zt
 spring:
   profiles: client
+  port: 6666
 ---
 server:
   port: 8201
