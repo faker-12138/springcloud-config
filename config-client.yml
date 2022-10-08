@@ -4,7 +4,7 @@ spring:
     
 ---
 config:
-  info: zt
+  info: ztt
 spring:
   profiles: client
 ---
